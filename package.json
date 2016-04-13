@@ -17,6 +17,7 @@
     "checks",
     "detect",
     "length",
+    "index",
     "array",
     "length-like",
     "array-like"
