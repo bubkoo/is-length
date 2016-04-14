@@ -36,7 +36,7 @@ isLength(Infinity);         // => false
 - [drop-left](https://github.com/bubkoo/drop-left) - Creates a slice of array with n elements dropped from the beginning.
 - [drop-right](https://github.com/bubkoo/drop-right) - Creates a slice of array with n elements dropped from the end.
 - [shuffle-arr](https://github.com/bubkoo/shuffle-arr) - Randomize the order of the elements in an array or array-like object. 
-- [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or an array-like object.
+- [is-array-like](https://github.com/bubkoo/is-array-like) - Checks if the given value is an array or array-like object.
 
 
 ## Contributing
