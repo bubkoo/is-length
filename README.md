@@ -17,6 +17,8 @@ $ npm install --save is-length
 
 ## Usage
 
+> For more use-cases see the [tests](https://github.com/bubkoo/is-length/blob/master/test/spec/index.js)
+
 ```js
 var isLength = require('is-length');
 
