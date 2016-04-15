@@ -1,6 +1,6 @@
 {
   "name": "is-length",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Checks if the given value is a valid array-like length.",
   "main": "index.js",
   "scripts": {
@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/is-length.git"
+    "url": "git+https://github.com/gearcase/is-length.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/is-length/issues"
+    "url": "https://github.com/gearcase/is-length/issues"
   },
-  "homepage": "https://github.com/bubkoo/is-length#readme",
+  "homepage": "https://github.com/gearcase/is-length#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
